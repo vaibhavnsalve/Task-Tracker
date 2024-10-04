@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
    
 2. **Navigate to the project directory**:
    ```bash
-   cd landing-page-project
+   cd Task-Tracker
    ```
 
 3. **Open `index.html` in your browser**:
