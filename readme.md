@@ -1,6 +1,6 @@
 
 
-# Landing Page Project
+# Task-Tracker
 
 This project is a responsive landing page with a clean and modern design. It includes sections such as a header with navigation, introductory content with text and images, a client/partners section with a sliding carousel, and footer information with social media links and contact details.
 
@@ -72,7 +72,7 @@ To run this project locally, follow these steps:
 ## File Structure
 
 ```plaintext
-landing-page-project/
+Task-Tracker/
 │
 ├── index.html          # The main HTML file for the landing page
 ├── styles.css          # Custom CSS styles for the landing page
